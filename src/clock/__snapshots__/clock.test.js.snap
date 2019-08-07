@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`clock component should render clock. 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#6b6eff",
+      "borderRadius": "100px",
+      "boxShadow": "1px 1px 3px 1px #0000003b",
+      "color": "#fff",
+      "display": "flex",
+      "fontSize": "20px",
+      "fontWeight": "bold",
+      "justifyContent": "center",
+      "maxWidth": "400px",
+      "padding": "20px 30px",
+    }
+  }
+>
+  <p>
+    123456789
+  </p>
+</div>
+`;
