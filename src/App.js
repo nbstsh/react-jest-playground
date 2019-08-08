@@ -14,10 +14,11 @@ const style = {
 function App() {
 	return (
 		<div style={style}>
+			<h2>Welcome to React</h2>
 			<Clock />
 			<CheckboxWithLabel
-				labelOn='checked!!!!'
-				labelOff='not checked!!!'
+				labelOn="checked!!!!"
+				labelOff="not checked!!!"
 			/>
 		</div>
 	);
